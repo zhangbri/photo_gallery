@@ -26,6 +26,11 @@ Check out the live demo [here](https://yourwebsite.com).
 
 ## Screenshots 📸
 Here are some highlights of the Photo Gallery Website:
+<img width="824" alt="Pets" src="https://github.com/zhangbri/photo_gallery/assets/115335041/e586aa10-0c0d-4b87-9aa4-132bca4c3636">
+<img width="823" alt="lightbox" src="https://github.com/zhangbri/photo_gallery/assets/115335041/d99e4266-cbd0-4936-a650-f175dfe02b0c">
+<img width="824" alt="Travel" src="https://github.com/zhangbri/photo_gallery/assets/115335041/878c8001-32b1-4fe1-8a2a-d23928104852">
+<img width="824" alt="Recipes" src="https://github.com/zhangbri/photo_gallery/assets/115335041/ad220166-dfe9-476d-bf64-c0d916b4b439">
+
 
 ## Feedback and Contact 📬
 I value your feedback! Contact me at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or connect on [LinkedIn](https://www.linkedin.com/in/zhangbri/).
