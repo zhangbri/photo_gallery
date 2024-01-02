@@ -28,7 +28,7 @@ cd photo_gallery
 #### Open `index.html` in a web browser.
 
 ## Live Demo 🔗
-Check out the live demo at https://zhangbri.github.io/photo_gallery/
+Check out the live demo: https://zhangbri.github.io/photo_gallery/
 
 ## Screenshots 📸
 Here are some highlights of the Photo Gallery Website:
