@@ -17,15 +17,15 @@ Welcome to my Photo Gallery Website! This project is a testament to my web devel
 - **Custom CSS Animations:** To add visual flair and engagement.
 
 ## Installation and Setup 🛠️
-#### Clone the repository
+**Clone the repository**
 ```
 git clone https://github.com/zhangbri/photo_gallery.git
 ```
-#### Navigate to the project directory
+**Navigate to the project directory**
 ```
 cd photo_gallery
 ```
-#### Open `index.html` in a web browser.
+**Open `index.html` in a web browser.**
 
 ## Live Demo 🔗
 Check out the live demo: https://zhangbri.github.io/photo_gallery/
