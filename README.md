@@ -27,12 +27,12 @@ Check out the live demo [here](https://yourwebsite.com).
 ## Screenshots 📸
 Here are some highlights of the Photo Gallery Website:
 <p align="center">
-  <img src="https://github.com/zhangbri/photo_gallery/assets/115335041/e586aa10-0c0d-4b87-9aa4-132bca4c3636" alt="Pets" width="400" height="300">
-  <img src="https://github.com/zhangbri/photo_gallery/assets/115335041/d99e4266-cbd0-4936-a650-f175dfe02b0c" alt="lightbox" width="400" height="300">
+  <img src="https://github.com/zhangbri/photo_gallery/assets/115335041/e586aa10-0c0d-4b87-9aa4-132bca4c3636" alt="Pets" width="45%">
+  <img src="https://github.com/zhangbri/photo_gallery/assets/115335041/d99e4266-cbd0-4936-a650-f175dfe02b0c" alt="lightbox" width="45%">
 </p>
 <p align="center">
-  <img src="https://github.com/zhangbri/photo_gallery/assets/115335041/878c8001-32b1-4fe1-8a2a-d23928104852" alt="Travel" width="400" height="300">
-  <img src="https://github.com/zhangbri/photo_gallery/assets/115335041/ad220166-dfe9-476d-bf64-c0d916b4b439" alt="Recipes" width="400" height="300">
+  <img src="https://github.com/zhangbri/photo_gallery/assets/115335041/878c8001-32b1-4fe1-8a2a-d23928104852" alt="Travel" width="45%">
+  <img src="https://github.com/zhangbri/photo_gallery/assets/115335041/ad220166-dfe9-476d-bf64-c0d916b4b439" alt="Recipes" width="45%">
 </p>
 
 
