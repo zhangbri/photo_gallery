@@ -22,7 +22,7 @@ Welcome to my Photo Gallery Website! This project is a testament to my web devel
 3. Open `index.html` in a web browser.
 
 ## Live Demo 🔗
-Check out the live demo zhangbri.github.io/photo_gallery/.
+Check out the live demo at https://zhangbri.github.io/photo_gallery/
 
 ## Screenshots 📸
 Here are some highlights of the Photo Gallery Website:
