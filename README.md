@@ -1,22 +1,22 @@
 # 📷 Photo Gallery Website
 
-## Introduction 🌟
+## 🌟 Introduction
 Welcome to my Photo Gallery Website! This project is a testament to my web development skills, focused on crafting visually stunning and interactive photo galleries. Designed with responsiveness and user-friendliness in mind, it leverages modern web technologies to deliver a seamless browsing experience.
 
-## Features 🚀
+## 🚀 Features
 - **Responsive Design:** Ensures a smooth and consistent experience across different devices.
 - **Dynamic Photo Galleries:** Interactive galleries enhanced with lightbox features for a captivating visual journey.
 - **Dark Mode Toggle:** A user-preference feature for an alternative viewing mode.
 - **Accessible Navigation:** Fully accessible, supporting keyboard navigation and screen-readers for inclusive user experiences.
 
-## Technologies 💻
+## 💻 Technologies 
 - **HTML5:** For structuring the content.
 - **CSS3 (Flexbox, Grid):** For responsive and modern layouts.
 - **JavaScript:** To add interactivity and dynamic content.
 - **Lightbox Plugin:** For an immersive image viewing experience.
 - **Custom CSS Animations:** To add visual flair and engagement.
 
-## Installation and Setup 🛠️
+## 🛠️ Installation and Setup
 **Clone the repository**
 ```
 git clone https://github.com/zhangbri/photo_gallery.git
@@ -27,10 +27,10 @@ cd photo_gallery
 ```
 **Open `index.html` in a web browser.**
 
-## Live Demo 🔗
+## 🔗 Live Demo
 Check out the live demo: https://zhangbri.github.io/photo_gallery/
 
-## Screenshots 📸
+## 📸 Screenshots
 Here are some highlights of the Photo Gallery Website:
 <p align="center">
   <img src="https://github.com/zhangbri/photo_gallery/assets/115335041/e586aa10-0c0d-4b87-9aa4-132bca4c3636" alt="Pets" width="45%">
