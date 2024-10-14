@@ -1,4 +1,4 @@
-# 📷 Photo Gallery Website
+# 📷 Photo Gallery
 
 ## 🌟 Introduction
 Welcome to my Photo Gallery Website! This project is a testament to my web development skills, focused on crafting visually stunning and interactive photo galleries. Designed with responsiveness and user-friendliness in mind, it leverages modern web technologies to deliver a seamless browsing experience.
@@ -42,5 +42,5 @@ Here are some highlights of the Photo Gallery Website:
 </p>
 
 
-## Feedback and Contact 📬
+## 📬 Feedback and Contact
 I value your feedback! Contact me at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or connect on [LinkedIn](https://www.linkedin.com/in/zhangbri/).
