@@ -1,7 +1,7 @@
 # 📷 Photo Gallery
 
 ## 🌟 Introduction
-Welcome to my Photo Gallery Website! This project demonstrates my web development skills through interactive and visually engaging photo galleries. Built for responsiveness and ease of use, it utilizes modern web technologies to provide a smooth and intuitive browsing experience.
+Welcome to my Photo Gallery website! This project demonstrates my web development skills through interactive and visually engaging photo galleries. Built for responsiveness and ease of use, it utilizes modern web technologies to provide a smooth and intuitive browsing experience.
 
 ## 💡 Features
 - **Responsive Design:** Ensures a smooth and consistent experience across different devices.
