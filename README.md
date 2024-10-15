@@ -42,5 +42,5 @@ Here are some highlights of the Photo Gallery Website:
 </p>
 
 
-## 📬 Feedback and Contact
-I value your feedback! Contact me at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or connect on [LinkedIn](https://www.linkedin.com/in/zhangbri/).
+## 📬 Contact
+For inquiries or feedback, please reach out via email at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhangbri/).
